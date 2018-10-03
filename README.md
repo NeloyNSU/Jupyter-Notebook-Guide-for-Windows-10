@@ -1,4 +1,4 @@
-- Install Anaconda. For help, [see here](https://github.com/NeloyNSU/Install-Anaconda-on-Windows-10/blob/master/README.md)
+- First Install Anaconda. For help, [see here](https://github.com/NeloyNSU/Install-Anaconda-on-Windows-10/blob/master/README.md)
 
 
 ## Install Pip
